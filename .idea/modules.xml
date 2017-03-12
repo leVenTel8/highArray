@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/highArray.iml" filepath="$PROJECT_DIR$/highArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons.iml" filepath="$PROJECT_DIR$/lessons.iml" />
     </modules>
   </component>
 </project>
